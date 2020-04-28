@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diagnal</string>
+
+    <string name="search_text">Search</string>
+    <string name="search_hint">Type 3chars or more</string>
+    <string name="toolbar_title">Romantic Comedy</string>
+</resources>
